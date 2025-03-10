@@ -6,8 +6,7 @@
   ### THE INTELLIGENCE LAYER THAT WILL CHANGE DEFI FOREVER
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![GitHub stars](https://img.shields.io/github/stars/ldmdldm/framew0rk?style=social)](https://github.com/ldmdldm/framew0rk/stargazers)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/framew0rk?style=social)](https://twitter.com/framew0rk)
+
   
   <p>First-ever embeddable AI agent framework for DeFi protocols</p>
 </div>
