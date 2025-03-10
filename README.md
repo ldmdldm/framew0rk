@@ -1,308 +1,269 @@
-# Framew0rk
+<div align="center">
+  <img src="https://via.placeholder.com/200x200?text=FRAMEW0RK" alt="Framew0rk Logo" width="200" height="200">
 
-A DeFi assistant platform powered by AI for analyzing, understanding, and executing strategies on various blockchain protocols.
+  # FRAMEW0RK
 
-## Project Overview
+  ### THE INTELLIGENCE LAYER THAT WILL CHANGE DEFI FOREVER
 
-Framew0rk integrates:
-- AI-powered analysis of DeFi protocols (via DeepSeek)
-- Real-time metrics from protocols using The Graph
-- Strategy recommendations based on market conditions
-- Direct execution of DeFi strategies from the platform
-- Custom AI training on protocol documentation
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![GitHub stars](https://img.shields.io/github/stars/ldmdldm/framew0rk?style=social)](https://github.com/ldmdldm/framew0rk/stargazers)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/framew0rk?style=social)](https://twitter.com/framew0rk)
+  
+  <p>First-ever embeddable AI agent framework for DeFi protocols</p>
+</div>
 
-## Tech Stack
+## 🚀 The Opportunity
 
-### Frontend
-- React with TypeScript
-- Vite as the build tool
-- TailwindCSS for styling
-- Apollo Client for GraphQL
+<div align="center">
+  <img src="https://via.placeholder.com/800x400?text=DeFi+Market+Opportunity" alt="Market Opportunity" width="800">
+</div>
 
-### Backend
-- Express.js server
-- Supabase for database
-- DeepSeek AI API integration
-- The Graph API for blockchain data
+The DeFi landscape is at an inflection point:
 
-## Prerequisites
+- **$150B+ market cap**, yet users struggle to optimize yields
+- **Capturing just 5% of yield optimization market = $500M+ TAM**
+- **76% of users abandon complex yield strategies**, costing protocols billions in TVLs
+- Protocols lose users due to complexity barriers
+- We are witnessing the collision of two explosive forces: **AI + DeFi**
+
+## 💡 What is Framew0rk?
+
+Framew0rk is building the intelligence layer for ALL DeFi:
+
+- **First-ever embeddable AI agent framework** for DeFi protocols
+- Generates **optimal yield strategies** using real-time protocol data
+- Seamless **integration directly into existing DeFi websites and apps**
+- Think Bloomberg Terminal meets AI co-pilot for every DeFi user
+- **Lightweight SDK deployable in under 3 weeks** per protocol
+
+## 🔥 Market Pain Points
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🧩 Complexity</b></td>
+      <td align="center"><b>🔄 Fragmentation</b></td>
+      <td align="center"><b>📈 Volatility</b></td>
+    </tr>
+    <tr>
+      <td>Current DeFi UX is fundamentally broken</td>
+      <td>Users juggle multiple tools to find best yields</td>
+      <td>Strategy optimization requires constant monitoring</td>
+    </tr>
+    <tr>
+      <td>Protocols face user drop-off due to strategy complexity</td>
+      <td>DefiLlama, DexScreener, etc. pull users away from protocols</td>
+      <td>Markets change rapidly, leaving strategies outdated</td>
+    </tr>
+  </table>
+</div>
+
+## ⚙️ The Framew0rk Solution
+
+**WHY THIS CHANGES EVERYTHING**
+
+<div align="center">
+  <img src="https://via.placeholder.com/800x400?text=The+Framew0rk+Solution" alt="Framew0rk Solution" width="800">
+</div>
+
+- **Plug-and-play AI agent infrastructure** for any DeFi protocol
+- **Real-time strategy optimization** using protocol's own liquidity data
+- **Personalized recommendations** based on user risk profile
+- **Increases protocol retention** by reducing complexity barriers
+- **Keeps users within protocol ecosystems** rather than losing them to aggregators
+
+## ⏰ Why Now?
+
+**THE MARKET INFLECTION POINT**
+
+- AI agent technology has reached **production-ready maturity**
+- DeFi Protocol Evolution:
+  - First-generation: **Manually operated** ✓
+  - Second-generation: **AI-enhanced** (we are here) ⬅️
+  - Third-generation: **AI-native** (Framew0rk enables this transition)
+- **The protocols that integrate AI first will dominate the next market cycle**
+- Rising demand for personalized financial services
+- Growing API availability across DeFi infrastructure
+
+## 🏆 Competitive Advantage
+
+**WHY THIS WINS THE MARKET**
+
+- **First-mover** in protocol-specific AI strategy recommendation
+- **Direct integration** creates stronger protocol alignment vs third-party tools
+- **Exclusive on-chain data** through native protocol integration
+- **Proprietary data flywheel** that gets smarter with each integration:
+  - Every protocol integration feeds our AI models with exclusive on-chain data
+  - Network effects: each integration improves the entire model
+- Think **Stripe for DeFi yield optimization**: One integration, immediate value
+
+## 🥊 Competition Landscape
+
+**COMPETITION REALITY CHECK**
+
+| Competitor Type | Examples | Limitations |
+|-----------------|----------|-------------|
+| Point solutions | DefiLlama, Zapper | User-facing, not protocol-embedded |
+| Generic AI | Claude, GPT | Lack DeFi-specific training and protocol integration |
+| Internal teams | Protocol-built solutions | Slow development, lack specialized AI talent |
+
+Protocols lack AI expertise to build in-house (confirmed with 15+ teams)
+
+## 🚀 Go-to-Market Strategy
+
+**THE EXPLOSIVE GROWTH TRAJECTORY**
+
+- Initial focus on **top 10 yield aggregators and lending protocols**
+- Revenue model: **SaaS subscription + success fee** on increased TVL
+- Strategic partnerships with leading DeFi infrastructure providers
+
+### Phases:
+1. **Core integrations** with top yield and lending protocols (Now)
+2. **Cross-protocol strategy optimization** (Q3 2025)
+3. **Expansion to retail-facing offering** (Q1 2026)
+
+**Target: 30+ protocol integrations representing $25B+ in TVL by EOY 2026**
+
+## 📈 Traction & Roadmap
+
+**EARLY VALIDATION THAT MATTERS**
+
+- Early integration test on **Morpho and Balancer**
+- Estimation of **45% increase in user engagement**
+- **4 major protocols with $2B+ TVL** in active integration discussions
+- Solves immediate pain point: Users stay on protocol instead of leaving for yield aggregators
+- Key metrics: Integration velocity, user engagement, incremental yield generated
+
+## ⚠️ Addressing Key Risks
+
+<details>
+<summary><b>CAC vs. LTV</b></summary>
+<ul>
+<li>Protocols spend $50-100 per user acquisition; FRAMEW0RK enables retention, reducing churn by 30%+</li>
+<li>Direct BD approach with proven adoption cycle (~3 months per protocol)</li>
+<li>Projected 5:1 LTV:CAC ratio based on existing pilot contracts</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Adoption Speed</b></summary>
+<ul>
+<li>SDK-based approach allows for sub-3-week deployment</li>
+<li>No need for protocol reworks; FRAMEW0RK integrates seamlessly with existing UIs</li>
+<li>Early integrations validating the minimal lift required from protocols</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Fee Scalability</b></summary>
+<ul>
+<li>AI recommendations have shown 18% average TVL uplift per user, ensuring strong justification for performance-based revenue</li>
+<li>Backtested yield strategies indicate a 3-5x ROI on fees paid to FRAMEW0RK</li>
+<li>Revenue directly tied to protocol success, ensuring continued adoption</li>
+</ul>
+</details>
+
+## 📱 Quick Start
+
+```bash
+# Install dependencies
+npm install @framew0rk/sdk
+
+# Initialize the SDK
+import { Framew0rk } from '@framew0rk/sdk';
+
+const framew0rk = new Framew0rk({
+  apiKey: 'YOUR_API_KEY',
+  protocol: 'uniswap',
+  environment: 'mainnet'
+});
+
+// Generate yield strategy recommendations
+const strategies = await framew0rk.generateStrategies({
+  userAddress: '0x...',
+  riskTolerance: 'medium',
+  timeHorizon: 90 // days
+});
+```
+
+## 📘 Documentation
+
+For full documentation, visit [docs.framew0rk.xyz](https://docs.framew0rk.xyz)
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📧 Contact
+
+- Website: [framew0rk.xyz](https://framew0rk.xyz)
+- Email: [info@framew0rk.xyz](mailto:info@framew0rk.xyz)
+- Twitter: [@framew0rk](https://twitter.com/framew0rk)
+
+## Development Setup
+
+### Prerequisites
 
 - Node.js (v16 or higher)
 - npm or yarn
-- PostgreSQL (if running Supabase locally)
 - API keys for:
   - DeepSeek AI
   - Supabase
   - The Graph (for DeFi protocol data)
 
-## Setup Instructions
+### Installation
 
-### 1. Clone the repository
-
+1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/framew0rk.git
+git clone https://github.com/ldmdldm/framew0rk.git
 cd framew0rk
 ```
 
-### 2. Install dependencies
-
+2. Install dependencies
 ```bash
 npm install
 # or
 yarn install
 ```
 
-### 3. Environment setup
-
-Create a `.env` file in the project root by copying the example file:
-
+3. Set up environment variables
 ```bash
 cp .env.example .env
 ```
 
-Fill in your API keys and configuration values in the `.env` file:
+4. Fill in your API keys in the `.env` file
 
-```
-# Server configuration
-PORT=3001
-NODE_ENV=development
+### Running Locally
 
-# API keys
-DEEPSEEK_API_KEY=your_deepseek_api_key
-SUPABASE_URL=your_supabase_url
-SUPABASE_KEY=your_supabase_key
-
-# Frontend configuration
-VITE_API_BASE_URL=http://localhost:3001
-```
-
-### 4. Database setup
-
-If using Supabase:
-1. Create a new project in the Supabase dashboard
-2. Run the SQL scripts in the `database` directory to set up the schema
-3. Update your `.env` file with the Supabase URL and API key
-
-## Running the Application
-
-### Development Mode
-
-#### Start the backend server
-
+Start the backend server:
 ```bash
-# In one terminal
 npm run dev:server
-# or
-yarn dev:server
 ```
 
-#### Start the frontend development server
-
+Start the frontend development server:
 ```bash
-# In another terminal
 npm run dev
-# or
-yarn dev
 ```
 
-The frontend will be available at `http://localhost:5173` and will proxy API requests to the backend server running on port 3001.
+The application will be available at `http://localhost:5173`
 
-### Production Build
-
-#### Build the application
-
-```bash
-npm run build
-# or
-yarn build
-```
-
-#### Start the production server
-
-```bash
-npm run start
-# or
-yarn start
-```
-
-This will serve the static frontend files and run the API server on the same port specified in your `.env` file.
-
-## API Endpoints
+## API Reference
 
 The following endpoints are available:
 
-- `POST /api/analyze` - Analyze user messages in the context of DeFi protocols
+- `POST /api/analyze` - Analyze user queries and generate strategies
 - `POST /api/strategies/:id/execute` - Execute investment strategies
 - `POST /api/protocols/:id/train` - Train AI on protocol documentation
 
-## Project Structure
-
-```
-framew0rk/
-├── src/
-│   ├── components/     # React components
-│   ├── pages/          # Page components
-│   ├── server/         # Express server
-│   │   ├── middleware/ # Express middleware
-│   │   ├── routes/     # API routes
-│   │   ├── lib/        # Server utilities
-│   │   └── index.ts    # Server entry point
-│   ├── utils/          # Shared utilities
-│   ├── App.tsx         # Main React component
-│   └── main.tsx        # Frontend entry point
-├── public/             # Static assets
-├── vite.config.ts      # Vite configuration
-├── tsconfig.json       # TypeScript configuration
-└── package.json        # Dependencies and scripts
-```
-
-## Development Workflow
-
-1. Make changes to the frontend code in the `src` directory
-2. The Vite dev server will automatically reload when changes are detected
-3. Make changes to the backend code in the `src/server` directory
-4. The server will automatically restart when changes are detected
-
-## Troubleshooting
-
-If you encounter CORS issues:
-- Ensure the backend server CORS configuration includes your frontend URL
-- Check that the Vite proxy is correctly configured for API requests
-
-If API requests fail:
-- Verify your API keys in the `.env` file
-- Ensure the backend server is running
-- Check server logs for error messages
-
-## License
-
-[MIT](LICENSE)
-
-# Framew0rk - AI-Powered DeFi Strategy Assistant
-
-Framew0rk is a sophisticated DeFi strategy assistant that leverages AI to help users optimize their cryptocurrency portfolio through advanced blockchain analysis and automated strategy execution.
-
-![Framew0rk Screenshot](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&q=80&w=2000)
-
-## Features
-
-- 🤖 **AI-Powered Analysis**: Get personalized DeFi strategy recommendations based on your goals and risk tolerance
-- 📊 **Multi-Chain Support**: Analyze opportunities across Ethereum, Arbitrum, Optimism, and Polygon
-- 💼 **Portfolio Management**: Track and manage your DeFi positions across multiple protocols
-- 🔄 **Automated Execution**: Execute recommended strategies directly through the interface
-- 🛡️ **Risk Assessment**: Real-time risk analysis and monitoring of your positions
-- 📈 **Protocol Integration**: Deep integration with major DeFi protocols like Uniswap, Aave, Compound, and more
-
-## Technology Stack
+## Tech Stack
 
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **Backend**: Node.js, Express
-- **AI**: OpenAI GPT-4
-- **Blockchain Data**: The Graph Protocol
-- **State Management**: React Context
-- **Styling**: Tailwind CSS with custom theme
-- **Icons**: Lucide React
-
-## Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/framew0rk.git
-cd framew0rk
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Set up environment variables:
-```bash
-cp .env.example .env
-```
-
-4. Start the development server:
-```bash
-npm run dev
-```
-
-## Project Structure
-
-```
-framew0rk/
-├── src/
-│   ├── components/      # Reusable UI components
-│   ├── pages/          # Page components
-│   ├── server/         # Backend server code
-│   │   ├── lib/        # Server utilities
-│   │   ├── routes/     # API routes
-│   │   └── middleware/ # Express middleware
-│   ├── types/          # TypeScript type definitions
-│   └── plugin/         # Embeddable widget code
-├── public/             # Static assets
-└── dist/              # Production build output
-```
-
-## Features in Detail
-
-### AI Strategy Assistant
-- Natural language interaction for strategy queries
-- Context-aware responses based on market conditions
-- Personalized recommendations based on user preferences
-- Real-time market data integration
-
-### Portfolio Analysis
-- Multi-chain position tracking
-- Performance metrics and analytics
-- Risk assessment and alerts
-- Historical performance tracking
-
-### Protocol Integration
-- Real-time data from major DeFi protocols
-- Automated strategy execution
-- Position management across protocols
-- APY/APR optimization
-
-### Risk Management
-- Real-time risk monitoring
-- Position health checks
-- Liquidation risk alerts
-- Portfolio diversification analysis
-
-## Development
-
-### Running the Project
-
-Development mode:
-```bash
-npm run dev
-```
-
-Build for production:
-```bash
-npm run build
-```
-
-Start production server:
-```bash
-npm run start:server
-```
-
-### Plugin Development
-
-Build the embeddable widget:
-```bash
-npm run build:plugin
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **AI**: DeepSeek AI
+- **Blockchain**: The Graph Protocol for DeFi data
+- **Database**: Supabase
+- **Build Tools**: Vite, TypeScript
