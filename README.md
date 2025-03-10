@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/200x200?text=FRAMEW0RK" alt="Framew0rk Logo" width="200" height="200">
 
   # FRAMEW0RK
 
@@ -14,7 +13,6 @@
 ## 🚀 The Opportunity
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=DeFi+Market+Opportunity" alt="Market Opportunity" width="800">
 </div>
 
 The DeFi landscape is at an inflection point:
