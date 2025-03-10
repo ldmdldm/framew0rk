@@ -1,0 +1,87 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules
+.pnpm-store/
+.npm
+.yarn
+
+# Environment variables
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# Build output
+dist
+dist-ssr
+build
+out
+*.local
+
+# Editor and IDE files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.sublime-*
+.project
+.classpath
+.settings/
+*.iml
+*.ipr
+*.iws
+
+# Testing and coverage
+coverage
+.nyc_output
+test-results/
+**/cypress/videos/
+**/cypress/screenshots/
+
+# Temporary files
+.tmp/
+temp/
+tmp/
+.cache
+*.tsbuildinfo
+
+# Backup files
+*.bak
+*.backup
+*~
+*.swp
+
+# Bolt-related files
+.bolt/
+*bolt*/
+
+# Next.js
+.next/
+.vercel/
+.serverless/
+
+# Supabase
+supabase/.branches/
+supabase/.temp/
+
+# Misc
+.turbo
+.eslintcache
+.stylelintcache
+

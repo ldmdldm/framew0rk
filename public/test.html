@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Test Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 10px 0;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        pre {
+            background-color: #f4f4f4;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 10px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+        .error {
+            color: red;
+            background-color: #ffebee;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .success {
+            color: green;
+            background-color: #e8f5e9;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>API Test Page</h1>
+    <p>This page tests the connection to the /api/hello endpoint.</p>
+    
+    <button id="testApi">Test API Connection</button>
+    
+    <div id="status"></div>
+    <h3>Response:</h3>
+    <pre id="result">Click the button above to test the API.</pre>
+
+    <script>
+        document.getElementById('testApi').addEventListener('click', async () => {
+            const statusEl = document.getElementById('status');
+            const resultEl = document.getElementById('result');
+            
+            statusEl.innerHTML = 'Testing API connection...';
+            statusEl.className = '';
+            
+            try {
+                const response = await fetch('/api/hello');
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                
+                resultEl.textContent = JSON.stringify(data, null, 2);
+                statusEl.innerHTML = 'API connection successful!';
+                statusEl.className = 'success';
+                
+                console.log('API response:', data);
+            } catch (error) {
+                console.error('Error testing API:', error);
+                
+                resultEl.textContent = error.toString();
+                statusEl.innerHTML = 'API connection failed. See console for more details.';
+                statusEl.className = 'error';
+            }
+        });
+    </script>
+</body>
+</html>
+
